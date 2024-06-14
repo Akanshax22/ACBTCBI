@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="length_units">
+        <item>meters</item>
+        <item>kilometers</item>
+        <item>miles</item>
+    </string-array>
+    <string-array name="weight_units">
+        <item>grams</item>
+        <item>kilograms</item>
+        <item>pounds</item>
+    </string-array>
+    <string-array name="volume_units">
+        <item>liters</item>
+        <item>milliliters</item>
+        <item>gallons</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="speed_units">
+        <item>meters per second</item>
+        <item>kilometers per hour</item>
+        <item>miles per hour</item>
+    </string-array>
+    <string-array name="area_units">
+        <item>square meters</item>
+        <item>square kilometers</item>
+        <item>square feet</item>
+    </string-array>
+    <string-array name="time_units">
+        <item>seconds</item>
+        <item>minutes</item>
+        <item>hours</item>
+    </string-array>
+    <string-array name="currency_units">
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+    <string-array name="default_units" />
+</resources>
